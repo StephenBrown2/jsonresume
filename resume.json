@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Stephen Brown II",
+    "label": "Linux Administrator",
+    "picture": "https://avatars1.githubusercontent.com/u/1148665?v=2&s=460",
+    "email": "Stephen.Brown2@gmail.com",
+    "phone": "(443) 219-4559",
+    "website": "http://sibii.com",
+    "summary": "He cares deeply about many things ranging from debt to EVs, and if you dare ask him about them and expect a short conversation, I pity you.",
+    "location": {
+      "address": "8000 Midcrown Dr. Apt 1405",
+      "postalCode": "78218",
+      "city": "San Antonio",
+      "state": "Texas",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "StephenBrown2",
+        "url": "https://github.com/StephenBrown2"
+      },
+      {
+        "network": "Twitter",
+        "username": "Gilligan",
+        "url": "https://twitter.com/Gilligan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Rackspace",
+      "position": "Linux Administrator",
+      "website": "http://www.rackspace.com/",
+      "startDate": "2014-01-02",
+      "endDate": "",
+      "summary": "Supporting the lang of 1000+ edge cases is not easy, but it's what we do at Rackspace. Bringing Fanatical support to life, managing 100's of clients servers and helping troubleshoot issues is part of the daily flow. Learning never stops either.",
+      "highlights": []
+    },
+    {
+      "company": "Johns Hopkins University ∙ Center for Communication Programs, Knowledge for Health Project",
+      "position": "Linux Systems Administrator",
+      "website": "https://www.jhuccp.org/",
+      "startDate": "2011-04-02",
+      "endDate": "2013-12-20",
+      "summary": "April of 2011, hired as a Contractor. Less than 6 months later (before temp contract ended), August 2011, hired on as a Full-Time employee.  Job consisted mainly of maintaining a handful of CentOS 5 servers for 30+ websites developed in house using the Drupal platform, as well as finding other ways of improving our service and functioning smoothly as a team.  In July 2013, promoted from Junior position and continued work as a Linux System Administrator. Responsible for maintaining and administering servers and services relevant to the Knowledge for Health (K4Health) Project, a global 5-year USAID-funded effort designed to improve access to, and use of, health information collected, synthesized, and made available in a variety of formats.  Responsibilities include maintenance and monitoring of various aspects of the back-end requirements for various products and projects at CCP, websites using the Drupal CMS running on a LAMP infrastructure on physical and virtual Centos 5 and 6 machines, with Apache Solr search indexes on newer sites as needed.",
+      "highlights": [
+        "Introduced git to the development workflow and instructed the development team on best practices for using a development -> staging -> production workflow.",
+        "Pushed forth an effort to implement Puppet in the Configuration Management side of administering the servers, and tested implementation in local Vagrant environments."
+      ]
+    },
+    {
+      "company": "Micros Systems",
+      "position": "Software Escalations Specialist",
+      "website": "http://www.micros.com/",
+      "startDate": "2011-01-02",
+      "endDate": "2011-04-30",
+      "summary": "Working for the largest software company in Baltimore supporting escalated support cases and documenting issues found with the software the company develops in conjunction with development and QA teams. Solving tough problems or delegating them to the right people.",
+      "highlights": []
+    },
+    {
+      "company": "Geek Squad",
+      "position": "Counter Operations Agent",
+      "website": "http://www.geeksquad.com/",
+      "startDate": "2010-10-02",
+      "endDate": "2010-12-31",
+      "summary": "From diagnosing client issues in a quick and accurate manner, to checking computers in for service with complete details and full customer understanding, I strive to maintain a healthy customer relationship by ensuring that all the customers needs are met and that the whole solution is available for them.",
+      "highlights": []
+    },
+    {
+      "company": "Solnet Network Services",
+      "position": "Tech Support Specialist",
+      "website": "http://solnetweb.com/",
+      "startDate": "2010-03-02",
+      "endDate": "2010-10-31",
+      "summary": "Performed level 1 Tech support supporting Desktops and end-node business networking as well as installing Layer 1 infrastructure, including CAT5 cable running and termination for over a dozen client accounts, dealt with issues including virus infections, Outlook issues, migration of old PCs to new, and network connection issues.Wiped and reinstalled Windows XP PCs using DBAN, Sysprep, and Clonezilla Client support focused on interacting with end-users, other support technicians, and business tech support lines with the goal to resolve all issues effectively in a reasonable time frame.",
+      "highlights": []
+    },
+    {
+      "company": "LeTourneau University",
+      "position": "Telecom Student Assistant",
+      "website": "http://www.letu.edu/",
+      "startDate": "2008-08-02",
+      "endDate": "2009-12-17",
+      "summary": "As part of the Level 1 telecom infrastructure installation, testing, and maintenance, I accessed and completed job tickets in Best Practical's Request Tracker, and installed and tested Ethernet-connected devices including IP phones and networked security cameras, gaining experience in troubleshooting, testing and replacing RJ-45 (Ethernet) and RJ-11 (phone) jacks and planning network drops. Large-scale projects completed in Spring 2009 included entire network wiring for new airport facility and cafeteria building.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "LeTourneau Universoty",
+      "area": "Computer Information Systems",
+      "studyType": "Bachelors Degree",
+      "startDate": "2005-08-20",
+      "endDate": "2009-12-17",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Red Hat Certified Engineer",
+      "date": "2014-Mar-12",
+      "awarder": "Red Hat",
+      "summary": "https://www.redhat.com/wapps/training/certification/verify.html?certNumber=140-027-434"
+    },
+    {
+      "title": "LPIC-1",
+      "date": "2010-Dec-30",
+      "awarder": "Linux Professional Institute",
+      "summary": "LPI ID: LPI000223384, Verification Code: ltd26ep79p, https://cs.lpi.org/caf/Xamman/certification"
+    },
+    {
+      "title": "Linux+ (Powered by LPI)",
+      "date": "2010-Dec-30",
+      "awarder": "CompTIA",
+      "summary": "https://www.certmetrics.com/comptia/public/verification.aspx?code=B8FPZJHDMH1QCCCL"
+    },
+    {
+      "title": "Server+",
+      "date": "2010-Dec-30",
+      "awarder": "CompTIA",
+      "summary": "https://www.certmetrics.com/comptia/public/verification.aspx?code=VXPPY2FJMGB4SWHY"
+    },
+    {
+      "title": "Security+",
+      "date": "2010-Mar-02",
+      "awarder": "CompTIA",
+      "summary": "https://www.certmetrics.com/comptia/public/verification.aspx?code=Q7D5J84BCL41KZ8G"
+    },
+    {
+      "title": "Network+",
+      "date": "2010-Feb-08",
+      "awarder": "CompTIA",
+      "summary": "https://www.certmetrics.com/comptia/public/verification.aspx?code=R4LQNYQB2LRQKJV8"
+    },
+    {
+      "title": "A+ (IT Technician)",
+      "date": "2010-Jan-21",
+      "awarder": "CompTIA",
+      "summary": "https://www.certmetrics.com/comptia/public/verification.aspx?code=CM1SNZCB2KEEYD90"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Linux Adminstration",
+      "level": "Advanced",
+      "keywords": [
+        "Linux",
+        "CentOS",
+        "Red Hat",
+        "RHCE",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Scripting/Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Bash",
+        "PHP",
+        "Python",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Puppet",
+        "Ansible",
+        "Git",
+        "GitHub",
+        "GitLab"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Debt Freedom",
+      "keywords": [
+        "Cash",
+        "is",
+        "King"
+      ]
+    },
+    {
+      "name": "Electric Vehicles",
+      "keywords": [
+        "Tesla"
+      ]
+    }
+  ],
+  "references": []
+}
